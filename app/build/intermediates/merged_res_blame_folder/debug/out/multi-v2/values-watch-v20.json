@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "ahmux.nutritionpoint.app-mergeDebugResources-3:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\prajw\\AndroidStudioProjects\\locomoto-master\\caches\\transforms-3\\1898011d417e99bd47db51b0b0a5368d\\transformed\\appcompat-v7-28.0.0-rc02\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

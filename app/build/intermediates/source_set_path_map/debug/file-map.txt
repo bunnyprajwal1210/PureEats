@@ -1,0 +1,17 @@
+ahmux.nutritionpoint.app-pngs-0 C:\Users\prajw\AndroidStudioProjects\Healthy Diet\app\build\generated\res\pngs\debug
+ahmux.nutritionpoint.app-resValues-1 C:\Users\prajw\AndroidStudioProjects\Healthy Diet\app\build\generated\res\resValues\debug
+ahmux.nutritionpoint.app-rs-2 C:\Users\prajw\AndroidStudioProjects\Healthy Diet\app\build\generated\res\rs\debug
+ahmux.nutritionpoint.app-mergeDebugResources-3 C:\Users\prajw\AndroidStudioProjects\Healthy Diet\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+ahmux.nutritionpoint.app-mergeDebugResources-4 C:\Users\prajw\AndroidStudioProjects\Healthy Diet\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+ahmux.nutritionpoint.app-merged_res-5 C:\Users\prajw\AndroidStudioProjects\Healthy Diet\app\build\intermediates\merged_res\debug
+ahmux.nutritionpoint.app-debug-6 C:\Users\prajw\AndroidStudioProjects\Healthy Diet\app\src\debug\res
+ahmux.nutritionpoint.app-main-7 C:\Users\prajw\AndroidStudioProjects\Healthy Diet\app\src\main\res
+ahmux.nutritionpoint.app-design-28.0.0-rc01-8 C:\Users\prajw\AndroidStudioProjects\locomoto-master\caches\transforms-3\03133640bb662f088c4ee4139eda8e7f\transformed\design-28.0.0-rc01\res
+ahmux.nutritionpoint.app-support-media-compat-28.0.0-rc02-9 C:\Users\prajw\AndroidStudioProjects\locomoto-master\caches\transforms-3\091ac2a29d750a29a7896e84ac2a45a1\transformed\support-media-compat-28.0.0-rc02\res
+ahmux.nutritionpoint.app-appcompat-v7-28.0.0-rc02-10 C:\Users\prajw\AndroidStudioProjects\locomoto-master\caches\transforms-3\1898011d417e99bd47db51b0b0a5368d\transformed\appcompat-v7-28.0.0-rc02\res
+ahmux.nutritionpoint.app-cardview-v7-28.0.0-rc01-11 C:\Users\prajw\AndroidStudioProjects\locomoto-master\caches\transforms-3\226bc144c691561e4e880ec9116fae8c\transformed\cardview-v7-28.0.0-rc01\res
+ahmux.nutritionpoint.app-support-compat-28.0.0-rc02-12 C:\Users\prajw\AndroidStudioProjects\locomoto-master\caches\transforms-3\2ab5fae8e6dead0c77a71acfcdc7fcd1\transformed\support-compat-28.0.0-rc02\res
+ahmux.nutritionpoint.app-transition-28.0.0-rc01-13 C:\Users\prajw\AndroidStudioProjects\locomoto-master\caches\transforms-3\6def02f5aac3ca09fc0d5cdd8d3a9c95\transformed\transition-28.0.0-rc01\res
+ahmux.nutritionpoint.app-constraint-layout-1.1.3-14 C:\Users\prajw\AndroidStudioProjects\locomoto-master\caches\transforms-3\9f250ac130432829c9518b8080a28391\transformed\constraint-layout-1.1.3\res
+ahmux.nutritionpoint.app-recyclerview-v7-28.0.0-rc01-15 C:\Users\prajw\AndroidStudioProjects\locomoto-master\caches\transforms-3\a4c7946093293d0e2c6b70b6ad9056bb\transformed\recyclerview-v7-28.0.0-rc01\res
+ahmux.nutritionpoint.app-coordinatorlayout-28.0.0-rc02-16 C:\Users\prajw\AndroidStudioProjects\locomoto-master\caches\transforms-3\d5893abc431b0b63e52e09e1e6863920\transformed\coordinatorlayout-28.0.0-rc02\res

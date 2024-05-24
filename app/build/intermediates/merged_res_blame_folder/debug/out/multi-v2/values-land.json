@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "ahmux.nutritionpoint.app-mergeDebugResources-3:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\prajw\\AndroidStudioProjects\\locomoto-master\\caches\\transforms-3\\1898011d417e99bd47db51b0b0a5368d\\transformed\\appcompat-v7-28.0.0-rc02\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\prajw\\AndroidStudioProjects\\locomoto-master\\caches\\transforms-3\\03133640bb662f088c4ee4139eda8e7f\\transformed\\design-28.0.0-rc01\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "431"
+                    }
+                }
+            ]
+        }
+    ]
+}
